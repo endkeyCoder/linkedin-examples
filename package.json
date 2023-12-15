@@ -9,7 +9,7 @@
     "web": "expo start --web",
     "test": "jest",
     "test:updated:dependencies": "node scripts/updateDependencies.js && yarn install & yarn test",
-    "posttest:updated:dependencies": "git reset --hard && yarn"
+    "posttest:updated:dependencies": "git reset --hard && yarn install"
   },
   "dependencies": {
     "expo": "~49.0.15",
