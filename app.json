@@ -18,6 +18,9 @@
           }
         }
       ]
-    ]
+    ],
+    "android": {
+      "package": "com.anonymous.linkedinexamples"
+    }
   }
 }

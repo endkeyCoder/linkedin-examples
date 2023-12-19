@@ -1,4 +1,4 @@
-package com.linkedinexamples;
+package com.anonymous.linkedinexamples;
 
 import android.os.Build;
 import android.os.Bundle;
